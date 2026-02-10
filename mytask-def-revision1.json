@@ -82,6 +82,6 @@
     },
     "registeredAt": "2026-02-10T13:44:41.318Z",
     "registeredBy": "arn:aws:iam::196809699912:user/Vansh",
-    "enableFaultInjection": false,
+    "enableFaultInjection": true,
     "tags": []
 }
